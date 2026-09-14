@@ -12,6 +12,26 @@ A modern and professional music streaming application designed for a smooth and 
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Flow Music Home Page](https://github.com/Mohammedanas927/Flow-Music/blob/main/ScreenShots/Home-Page.jpg?raw=true)
+
+### 🎧 Music Player
+
+![Flow Music Music Player](https://github.com/Mohammedanas927/Flow-Music/blob/main/ScreenShots/Music-Player.jpg?raw=true)
+
+### 🔎 Search
+
+![Flow Music Search](https://github.com/Mohammedanas927/Flow-Music/blob/main/ScreenShots/Search.jpg?raw=true)
+
+### 🎵 Songs
+
+![Flow Music Songs](https://github.com/Mohammedanas927/Flow-Music/blob/main/ScreenShots/Songs.jpeg?raw=true)
+
+---
+
 ## ✨ Features
 
 * 🎵 Modern music streaming experience
