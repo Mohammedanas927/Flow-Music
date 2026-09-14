@@ -1,0 +1,6 @@
+{
+  "name": "Flow Music",
+  "description": "A modern, professional music streaming app featuring dynamic search, artist discoveries, playlists, liked tracks, and fluid audio playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
